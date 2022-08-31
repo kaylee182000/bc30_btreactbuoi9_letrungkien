@@ -33,12 +33,13 @@
   width: 80%;
   filter: drop-shadow(4px 30px 20px rgba(255, 255, 255, 0.5));
   font-size: 25px;
+  padding-top: 50px;
   color: #fff;
 }
 
 .gheDuocChon {
   border: 3px solid orange;
-
+  margin-left: 1.5%;
   background: orange;
   color: #000;
 
@@ -52,7 +53,7 @@
   background: rgb(109, 238, 109);
   border: 3px solid rgb(109, 238, 109);
   color: #000;
-
+  margin-left: 1.5%;
   cursor: pointer;
   border-radius: 5px;
   width: 35px;
